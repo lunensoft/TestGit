@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 82f49053b9b703e4cbb1c6e76a563270
+labels:
+- animation
+- camera
+- curve
+- movement
+- road
+- smooth
+- spline
+- tcb
+- extrusion
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
